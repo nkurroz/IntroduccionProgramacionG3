@@ -1,0 +1,14 @@
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\obj\Debug\net10.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\obj\Debug\net10.0\DoWhile.AssemblyInfoInputs.cache
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\obj\Debug\net10.0\DoWhile.AssemblyInfo.cs
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\obj\Debug\net10.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\bin\Debug\net10.0\DoWhile.exe
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\bin\Debug\net10.0\DoWhile.deps.json
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\bin\Debug\net10.0\DoWhile.runtimeconfig.json
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\bin\Debug\net10.0\DoWhile.dll
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\bin\Debug\net10.0\DoWhile.pdb
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\obj\Debug\net10.0\DoWhile.dll
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\obj\Debug\net10.0\refint\DoWhile.dll
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\obj\Debug\net10.0\DoWhile.pdb
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\obj\Debug\net10.0\DoWhile.genruntimeconfig.cache
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\obj\Debug\net10.0\ref\DoWhile.dll
