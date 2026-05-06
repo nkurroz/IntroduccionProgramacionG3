@@ -1,0 +1,15 @@
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\Arreglo2\bin\Debug\net10.0\Arreglo2.exe
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\Arreglo2\bin\Debug\net10.0\Arreglo2.deps.json
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\Arreglo2\bin\Debug\net10.0\Arreglo2.runtimeconfig.json
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\Arreglo2\bin\Debug\net10.0\Arreglo2.dll
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\Arreglo2\bin\Debug\net10.0\Arreglo2.pdb
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\Arreglo2\obj\Debug\net10.0\Arreglo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\Arreglo2\obj\Debug\net10.0\Arreglo2.AssemblyInfoInputs.cache
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\Arreglo2\obj\Debug\net10.0\Arreglo2.AssemblyInfo.cs
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\Arreglo2\obj\Debug\net10.0\Arreglo2.csproj.CoreCompileInputs.cache
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\Arreglo2\obj\Debug\net10.0\Arreglo2.sourcelink.json
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\Arreglo2\obj\Debug\net10.0\Arreglo2.dll
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\Arreglo2\obj\Debug\net10.0\refint\Arreglo2.dll
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\Arreglo2\obj\Debug\net10.0\Arreglo2.pdb
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\Arreglo2\obj\Debug\net10.0\Arreglo2.genruntimeconfig.cache
+C:\Users\norae\OneDrive\Documentos\UAM PRIMER SEMESTRE\IntProgr\Semana7\DoWhile\Arreglo2\obj\Debug\net10.0\ref\Arreglo2.dll
